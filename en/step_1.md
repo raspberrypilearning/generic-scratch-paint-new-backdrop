@@ -1,25 +1,14 @@
-## Introduction
++ Click on the icon to the right of the **Sprites** pane to **Paint new backdrop**.
 
-Add project description here. What will learners be making?
+![paint new backdrop](images/paint_backdrop_icon.png)
 
-### What you will make
++ Use the drawing tool in the Backdrops tab to paint your backdrop.
 
-Add something here to showcase here, for example:
+![drawing tools](images/paint_tools.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
++ When you are finished, don’t forget to give your new backdrop a sensible name.
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
-
-### What you will learn
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level){:target="_blank"}
-
-### Additional information for educators
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+<video width="1024" height="768" controls>
+<source src="images/scratch_paint_new_backdrop.webm" type="video/webm">
+If your browser does not support WebM video, try FireFox or Chrome.
+</video>

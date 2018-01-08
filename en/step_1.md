@@ -10,5 +10,5 @@
 
 <video width="1024" height="768" controls>
 <source src="images/scratch_paint_new_backdrop.webm" type="video/webm">
-If your browser does not support WebM video, try FireFox or Chrome.
+Your browser does not support WebM video, so try FireFox or Chrome.
 </video>

@@ -1,4 +1,4 @@
-+ Click on the icon to the right of the **Sprites** panel called **Paint new backdrop**.
++ Click on the icon called **Paint new backdrop** to the right of the **Sprites** panel.
 
 ![paint new backdrop](images/paint_backdrop_icon.png)
 
